@@ -4,3 +4,5 @@
 *2 курс*  
   
 **Поддерживаемая версия ОС:** Android 5.0 и выше  
+  
+**[Демонстрация](https://www.youtube.com/watch?v=lid2LnJmbPA&t=84s)**
