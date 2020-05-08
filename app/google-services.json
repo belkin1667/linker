@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "334874783853",
+    "firebase_url": "https://linker-6ef34.firebaseio.com",
+    "project_id": "linker-6ef34",
+    "storage_bucket": "linker-6ef34.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:334874783853:android:933e9ff56fcd544b660f64",
+        "android_client_info": {
+          "package_name": "com.belkin.linker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "334874783853-9ot05kj79fcpn46o5c73mg43ush8mgcr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkgga5lY7aWg6Zkcy_LL1e_7Y5C_wNI6M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "334874783853-9ot05kj79fcpn46o5c73mg43ush8mgcr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
